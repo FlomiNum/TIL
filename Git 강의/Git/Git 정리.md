@@ -108,9 +108,7 @@ cf. GUI
 
 -git remote add origin {원격 저장소의 주소} 
 
-![화면 캡처 2021-09-02 154102](Git%20%EC%A0%95%EB%A6%AC.assets/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-09-02%20154102.png)
-
-
+![git 원격 저장소 주소](Images/Git%20%EC%A0%95%EB%A6%AC/git%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%A3%BC%EC%86%8C.png)
 
 -git push -u origin master : master 브랜치에 올린다.
 
