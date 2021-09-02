@@ -14,15 +14,13 @@ A. **분산 버전 관리** 시스템이야!!!
 
 ## 1) Git 설치
 
-![git 설치_1](Git%20%EC%A0%95%EB%A6%AC.assets/git%20%EC%84%A4%EC%B9%98_1.PNG)
+![git 설치_1](Images/Git%20%EC%A0%95%EB%A6%AC/git%20%EC%84%A4%EC%B9%98_1.PNG)
 
 
 
 ## 2) VSCode 설치
 
-![vscode 설치](Git%20%EC%A0%95%EB%A6%AC.assets/vscode%20%EC%84%A4%EC%B9%98.PNG)
-
-
+![vscode 설치](Images/Git%20%EC%A0%95%EB%A6%AC/vscode%20%EC%84%A4%EC%B9%98.PNG)
 
 # 3. Git 사용
 
