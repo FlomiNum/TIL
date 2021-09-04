@@ -108,7 +108,8 @@ cf. GUI
 
 ![git 원격 저장소 주소](Images/Git%20%EC%A0%95%EB%A6%AC/git%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%A3%BC%EC%86%8C.png)
 
--git push -u origin master : master 브랜치에 올린다.
+-git push -u origin master : master 브랜치에 올린다. (로컬에서 원격으로 연결해줄때 처음에만
+												-u 써준다.)
 
 -git push origin master : 위에랑 차이가 뭔지 질문
 
